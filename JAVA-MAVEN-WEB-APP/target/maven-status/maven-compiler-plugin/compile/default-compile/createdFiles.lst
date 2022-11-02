@@ -1,0 +1,6 @@
+com\app\domain\User.class
+com\app\config\AppConfiguration.class
+com\app\controller\UserRestController.class
+com\app\service\UserService.class
+com\app\config\AppInitializer.class
+com\app\service\UserServiceImpl.class
